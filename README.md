@@ -23,7 +23,6 @@ pip install pandas numpy matplotlib seaborn openpyxl
 
 Open the notebook (analysis.ipynb) in Jupyter, or run the script:
 
-    bash
     python analysis.py
 
     Check this folder for the Excel file and chart images!
@@ -37,8 +36,6 @@ Open the notebook (analysis.ipynb) in Jupyter, or run the script:
     📋 Makes summary tables (like average salary by department)
 
     📊 Makes charts (bar chart & gender chart)
-
-    💾 Saves everything to an Excel file
 
 📁 Files
 
